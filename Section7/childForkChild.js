@@ -1,5 +1,6 @@
 #!/usr/local/node-v12.13.1/bin/node
 // 2020-04-17
+// 2020-05-16: タイポ修正
 
 function logger(msg) {
   let d = Date.now().valueOf();
@@ -10,7 +11,7 @@ logger(`PID: ${process.pid}`);
 logger(`PPID: ${process.ppid}`);
 
 process.on('message', function(message) {
-  logger(`From partent: ${message}`);
+  logger(`From parent: ${message}`);
 });
 process.on('disconnect', function() {
   logger('Disconnected from parent. Exiting');
