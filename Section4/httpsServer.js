@@ -11,7 +11,7 @@ let cert = fs.readFileSync('./keys/ServerCertificate.crt');
 let options = {
   key: privateKey,
   cert: cert,
-  passphrase: 'Joana'
+  passphrase: 'xxxx'
 }
 
 let server = https.createServer(options, function(req, res) {

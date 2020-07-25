@@ -16,7 +16,7 @@ let options = {
   host: '192.168.235.10',
   path: process.argv[3],
   method: method,
-  auth: 'satoshi:satoshi',
+  auth: 'xxx:xxx',
   rejectUnauthorized: false
 }
 

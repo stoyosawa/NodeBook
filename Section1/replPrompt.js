@@ -3,5 +3,5 @@
 
 const repl = require('repl');
 repl.start({
-  'prompt': '# ',        // Unix 風
+  prompt: '# ',        // Unix 風
 });

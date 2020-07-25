@@ -9,10 +9,10 @@ function closeMe(reason) {
   stream.destroy();
 }
 
-// timeout ã¾ãŸã¯ size
+// timeout ‚Ü‚½‚Í size
 let condition = process.argv[2] || 'timeout';
 
-// çµ‚äº†æ¡ä»¶
+// I—¹ğŒ
 let byteMax = 100000;
 let timeout = 2000;
 let byteCount = 0;

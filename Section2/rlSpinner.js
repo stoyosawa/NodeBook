@@ -4,8 +4,8 @@
 const readline = require('readline');
 
 let count = 50;
-let spinner = ['|', '/', '-', '\\'];   // ASCII
-// let spinner = ['｜', '／', '－', '＼'];    // UTF8
+// let spinner = ['|', '/', '-', '\\'];   // ASCII
+let spinner = ['｜', '／', '－', '＼'];    // UTF8
 
 process.stdout.write('  Counting ....');
 let timer = setInterval(function() {

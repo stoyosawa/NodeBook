@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+// 2020-05-16
+
 const fs = require('fs');
 
 let promise = new Promise(function(resolve, reject) {
@@ -6,7 +9,7 @@ let promise = new Promise(function(resolve, reject) {
       reject(err);
       return;
     }
-    resolve('Writen to the file');
+    resolve('Written to the file');
   });
 });
 

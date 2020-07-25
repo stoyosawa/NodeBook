@@ -8,7 +8,7 @@ let options = {
   host: '192.168.235.10',
   path: '/dav/test.txt',
   method: 'PUT',
-  auth: 'satoshi:satoshi',
+  auth: 'xxx:xxx',
   rejectUnauthorized: false,
   headers: {
     'User-Agent': 'Test https put (Node.js)'
