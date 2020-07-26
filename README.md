@@ -1,6 +1,4 @@
 # NodeBook
-<<<<<<< HEAD
-=======
 Sample Node.js scripts from "NodeBook".
 
 [「詳説 Node.js」](http://www.cutt.co.jp/book/978-4-87783-489-0.html)（Cutt System刊; July 2020) 掲載のサンプルコードを収録してあります。
@@ -14,4 +12,4 @@ Sample Node.js scripts from "NodeBook".
   + Section 7 －並列処理編：Child Processes、Cluster、Worker Threads
 - SSLKeys ディレクトリは、第4章の HTTPS サーバの作成で用いた自己署名証明書を収めています。詳細はこのディレクトリの README.txt を参照してください。
 - LoremIpsum.txt は第2章などで、パラグラフ単位に分かれたやや長めのテキストを処理をしたときのサンプルファイルです。このファイルでなくてもサンプルコードは動作しますが、書籍と同じ結果を得たいときにお使いください。
->>>>>>> 1a514557b46c4ddda9ee781c87c6b6845aac47ad
+
