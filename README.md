@@ -23,3 +23,6 @@ Sample Node.js scripts from ["Node.js Explained - API and Examples"](http://www.
 - [Chapter 7](./Section7): Child Processes, Cluster, Worker Threads and Performance measurement
 - The `SSLKeys` directory contains the self-signed certificate used in the HTTPS section (Chapter 4). See `README.txt` in this directory for details (in Japanese).
 - `LoremIpsum.txt` is a sample file for scripts that parse long texts into paragraphs (Chapter 2). The codes should work with other text files.
+
+![書籍表紙](./BookCover.png "書籍表紙")
+ご購入は [honto](https://honto.jp/netstore/pd-book_30361360.html) などからどうぞ。
