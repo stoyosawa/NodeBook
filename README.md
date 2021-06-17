@@ -12,7 +12,8 @@
 - `SSLKeys` ディレクトリは、第4章の HTTPS サーバの作成で用いた自己署名証明書を収めています。詳細はこのディレクトリの `README.txt` を参照してください。
 - `LoremIpsum.txt` は第2章などで、パラグラフ単位に分かれたやや長めのテキストを処理をしたときのサンプルファイルです。このファイルでなくてもサンプルコードは動作しますが、書籍とおなじ結果を得たいときにお使いください。
 
-Sample Node.js scripts from ["Node.js Explained - API and Examples"](http://www.cutt.co.jp/book/978-4-87783-489-0.html), Cutt System, July 2020 (544 pages).
+Sample Node.js scripts from ["Node.js Explained - API and Examples"](http://www.cutt.co.jp/book/978-4-87783-489-0.html), Cutt System, July 2020 (544 pages).  
+See also: [Table of Contents](./TOC.md)
 
 - [Chapter 1](./Section1): REPL, Command Line Options and Modules
 - [Chapter 2](./Section2): OS, Process and Console
