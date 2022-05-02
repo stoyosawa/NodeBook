@@ -22,3 +22,6 @@
 Refer to [My publication TOC](https://github.com/stoyosawa/PublicationList/tree/master/TOC) for the English TOC.
 
 ## History
+
+- 2020-07-10: 出版
+- 2022-05-02: jsdom (第4章) をアップデート
