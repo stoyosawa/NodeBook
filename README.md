@@ -16,8 +16,9 @@
 ご購入は
 [amazon.co.jp](https://www.amazon.co.jp/%E8%A9%B3%E8%AA%ACNode-js%E2%80%95API%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%81%A8%E7%94%A8%E4%BE%8B-%E8%B1%8A%E6%B2%A2-%E8%81%A1/dp/4877834893)
 [honto](https://honto.jp/netstore/pd-book_30361360.html),
-[Yodobashi](https://www.yodobashi.com/product/100000009003304685/),
+[Yodobashi](https://www.yodobashi.com/product/100000009003304685/)
 などからどうぞ。
 
 Refer to [My publication TOC](https://github.com/stoyosawa/PublicationList/tree/master/TOC) for the English TOC.
 
+## History
